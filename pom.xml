@@ -4,8 +4,8 @@
 	<artifactId>hw0-pengqil</artifactId>
 	<version>0.0.2-SNAPSHOT</version>
 	<scm>
-		<connection>scm:git:git://github.com/lpqcx/hw0-pengqil.git</connection>
-		<developerConnection>scm:git:git://github.com/lpqcx/hw0-pengqil.git</developerConnection>
+		<connection>scm:git:git@github.com:lpqcx/hw0-pengqil.git</connection>
+		<developerConnection>scm:git:git@github.com:lpqcx/hw0-pengqil.git</developerConnection>
 	</scm>
 	<repositories>
 		<repository>
